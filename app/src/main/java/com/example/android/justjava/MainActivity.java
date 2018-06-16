@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     int quantity = 0;
     /**
      * This method is called when the order button is clicked.
+     * this is a new comment
      */
     public void increment(View view) {
         displayQuantity(quantity = quantity + 1);
